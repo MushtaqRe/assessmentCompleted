@@ -1,0 +1,10 @@
+{
+   "URL": "https://computer-database.gatling.io/computers",
+
+  "ComputerNameSelected": "Commodore 64",
+  "IntroducedValid": "2010-10-01",
+  "DiscontinuedValid": "2022-12-01",
+  "CompanySelected": "Sony"
+
+}
+// All the test data and repeated function will store here.
